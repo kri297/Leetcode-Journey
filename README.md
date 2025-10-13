@@ -7,7 +7,7 @@ My journey of solving coding problems and mastering Data Structures & Algorithms
 | Difficulty | Solved |
 |-----------|--------|
 | Easy      | 3      |
-| Medium    | 0      |
+| Medium    | 1      |
 | Hard      | 0      |
 
 **Total Problems Solved:** 0
@@ -29,8 +29,8 @@ leetcode-journey/
 
 ## 🔥 Current Streak
 
-- **Current Streak:** 1 days
-- **Longest Streak:** 1 days
+- **Current Streak:** 3 days
+- **Longest Streak:** 3 days
 
 ## 🤝 Connect
 
@@ -40,4 +40,4 @@ leetcode-journey/
 
 ⭐ If you find this repository helpful, consider giving it a star!
 
-**Last Updated:** October 12, 2025
+**Last Updated:** October 13, 2025
