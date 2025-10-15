@@ -10,7 +10,7 @@ My journey of solving coding problems and mastering Data Structures & Algorithms
 | Medium    | 1      |
 | Hard      | 0      |
 
-**Total Problems Solved:** 0
+**Total Problems Solved:** 5
 
 ## 📂 Repository Structure
 
