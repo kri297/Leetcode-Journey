@@ -11,7 +11,7 @@ Solutions to LeetCode medium difficulty problems.
 | # | Problem | Solution |
 |---|---------|----------|
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./reverse-integer.py) |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./remove-nth-node-from-end.py) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [c](./remove-nth-node-from-end.c) |
 
 ## 🎯 Status
 
