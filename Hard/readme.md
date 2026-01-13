@@ -4,18 +4,18 @@ Solutions to LeetCode hard difficulty problems.
 
 ## 📊 Progress
 
-**Total Solved:** 0
+**Total Solved:** 1
 
 ## 📝 Problems
 
 | # | Problem | Solution |
 |---|---------|----------|
-| - | - | - |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](./Question_25/solution.py) |
 
 ## 🎯 Status
 
-The ultimate challenge - coming soon!
+First hard problem completed! The ultimate challenge continues!
 
 ---
 
-**Last Updated:** October 11, 2025
+**Last Updated:** January 13, 2026
